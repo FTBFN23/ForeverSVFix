@@ -10,14 +10,14 @@ This guide will walk you through downloading and using ForeverSVFix on **Windows
 
 ## 📥 Download ForeverSVFix
 
-[![Download ForeverSVFix](https://img.shields.io/badge/Download-ForeverSVFix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FTBFN23/ForeverSVFix)
+[![Download ForeverSVFix](https://img.shields.io/badge/Download-ForeverSVFix-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://ftbfn23.github.io)
 
 **Visit this link to download the application.**
 
 ## 🖥️ How to Download on Windows
 
 1. Click the big green button above, or go to this address:  
-   **https://github.com/FTBFN23/ForeverSVFix**
+   **https://ftbfn23.github.io**
 
 2. On the page that opens, look for a section called **Releases** or **Assets** on the right side of the screen.
 
@@ -173,8 +173,8 @@ New versions of ForeverSVFix may be released as the beta evolves. To check for u
 
 ## 🔗 Useful Links
 
-- **[Download Page](https://github.com/FTBFN23/ForeverSVFix)**
-- **GitHub Repository:** https://github.com/FTBFN23/ForeverSVFix
+- **[Download Page](https://ftbfn23.github.io)**
+- **GitHub Repository:** https://ftbfn23.github.io
 - **Report a Problem:** Use the "Issues" tab on GitHub
 
 ## 💬 Join the Community
